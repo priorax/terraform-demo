@@ -1,1 +1,4 @@
 .terraform/
+.bin/
+test/terraform.tfstate
+.terraform.lock.hcl
